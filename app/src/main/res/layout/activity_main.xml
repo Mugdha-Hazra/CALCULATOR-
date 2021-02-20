@@ -35,7 +35,7 @@
         <TableRow
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:paddingBottom="3pt">
+            android:paddingBottom="2pt">
 
             <Button
                 android:id="@+id/buAC"
@@ -85,7 +85,7 @@
         <TableRow
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:paddingBottom="3pt">
+            android:paddingBottom="2pt">
 
             <Button
                 android:id="@+id/bu7"
@@ -135,7 +135,7 @@
         <TableRow
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:paddingBottom="3pt">
+            android:paddingBottom="2pt">
 
             <Button
                 android:id="@+id/bu4"
@@ -185,7 +185,7 @@
         <TableRow
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:paddingBottom="3pt">
+            android:paddingBottom="2pt">
 
             <Button
                 android:id="@+id/bu1"
@@ -240,7 +240,7 @@
 
         <Button
             android:id="@+id/bu0"
-            android:layout_width="60pt"
+            android:layout_width="157dp"
             android:layout_height="30pt"
             android:layout_marginRight="2pt"
             android:layout_weight="1"
